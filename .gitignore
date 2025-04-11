@@ -10,8 +10,9 @@ src/setupTests.js
 # testing
 /coverage
 reportWebVitals.js
-reportWebVitals.js
 public
+setupTests.js
+README.md
 
 # production
 /build
