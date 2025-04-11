@@ -4,9 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
-
+logo.svg
+reportWebVitals.js
+src/setupTests.js
 # testing
 /coverage
+reportWebVitals.js
+reportWebVitals.js
+public
 
 # production
 /build
